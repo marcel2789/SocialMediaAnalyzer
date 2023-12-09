@@ -83,7 +83,7 @@ class MainWindow(QtWidgets.QMainWindow):
 
 if __name__ == '__main__':
 
-    app = QtWidgets.QApplication(['Test'])
+    app = QtWidgets.QApplication(['SocialMediaAnalyzer'])
     window = MainWindow()
     window.show()
     try:
